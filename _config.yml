@@ -17,7 +17,7 @@ title: "Hello. I'm Bishoy M. Markos."
 email: 'bishoymagdi626@gmail.com'
 description: "I'm a biomedical engineering student in the Faculty of Engineeing at the Cairo University."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "bishoymagdi626.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 'bombomagdi'
 github_username: 'bishoymagdi626'
 facebook_username: 'bishoy m markos'
