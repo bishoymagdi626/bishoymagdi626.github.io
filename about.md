@@ -222,6 +222,6 @@ nav_item:
 * Gender          -  Male
 
 ### Education 
-* Junior Biomedical Engineering student in Cairo university `2019/2020`
-* Finished High School with a GPA of 3.81 `2013`
+* Junior Biomedical Engineering student in Faculty of Engineering - Cairo university `2019/2020`
+* Finished High School from Jaber ben Zaid school in Muscat - Sultanate of Oman  with a GPA of 3.81 `2013`
 
