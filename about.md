@@ -213,3 +213,11 @@ nav_item:
 ##### +201201245034
 #### bishoymagdi626@gmail.com
 
+### Personal Data
+
+* Date of Birth   -  9th April 1996
+* Marital Status  -  Single
+* Nationality     -  Egyptian
+* Gender          -  Male
+
+### Education 
