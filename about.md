@@ -223,3 +223,5 @@ nav_item:
 
 ### Education 
 * Junior Biomedical Engineering student in Cairo university `2019/2020`
+* Finished High School with a GPA of 3.81 `2013`
+
