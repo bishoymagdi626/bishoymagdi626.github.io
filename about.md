@@ -208,7 +208,7 @@ nav_item:
   - { url: '/about', text: 'About' }
 {% endhighlight %}
 
-![Octocat](C:\Users\bisho\Documents\GitHub\bishoymagdi626.github.io\img\18622098_10203122046008720_383455352845949872_n (640x639).jpg)
+![Octocat](https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/73190733_10206462377274914_2824490671329509376_n.jpg?_nc_cat=109&_nc_oc=AQmaLa9XbnuqMJSDCOImCmHcToHIhy-rL-svKDgCaLkYlEjseTfugRpd6L-RXcpXRlk&_nc_ht=scontent-iad3-1.xx&oh=5c60786715c026179ea8deb21b95366b&oe=5E8BFF90)
 # Bishoy Magdi Markos
 #### Omraneya Gharbeya, Giza, Egypt
 ##### +201201245034
