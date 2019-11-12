@@ -226,3 +226,8 @@ nav_item:
 * Attended the IELTS Exam with a score of 6.5  `2014`
 * Graduated from Jaber ben Zaid High School in Muscat - Sultanate of Oman  with a GPA of 3.81 `2013`
 
+### Lingual Skills
+* **Arabic** - Mother tongue
+* English    - Attended a full 6 band under 17 course in the _British Council_ `2010/2012`
+* French     - Attended a level 5 course in the _Franco-Omani Center_ `2012/2013`
+* German     - Attended a A1 level course int the _GOETHE INSTITUT_ `2017/2018`
