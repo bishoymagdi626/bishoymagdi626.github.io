@@ -223,5 +223,6 @@ nav_item:
 
 ### Education 
 * Junior Biomedical Engineering student in Faculty of Engineering - Cairo university `2019/2020`
-* Finished High School from Jaber ben Zaid school in Muscat - Sultanate of Oman  with a GPA of 3.81 `2013`
+* Attended the IELTS Exam with a score of 6.5  `2014`
+* Graduated from Jaber ben Zaid High School in Muscat - Sultanate of Oman  with a GPA of 3.81 `2013`
 
