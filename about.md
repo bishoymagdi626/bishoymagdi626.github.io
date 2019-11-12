@@ -207,3 +207,9 @@ nav_item:
   - { url: '/', text: 'Home' }
   - { url: '/about', text: 'About' }
 {% endhighlight %}
+
+# Bishoy Magdi Markos
+### Omraneya Gharbeya, Giza, Egypt
+#### _+201201245034
+### 'bishoymagdi626@gmail.com'
+
