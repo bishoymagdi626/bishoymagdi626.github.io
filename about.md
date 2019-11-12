@@ -208,7 +208,7 @@ nav_item:
   - { url: '/about', text: 'About' }
 {% endhighlight %}
 
-                              ![Octocat](https://scontent-hbe1-1.xx.fbcdn.net/v/t1.0-9/70762651_10206219463242215_5725789393864622080_n.jpg?_nc_cat=101&_nc_oc=AQnbpHN1SFnTv1ysbkghBlm2TxAbA-9cmsO-H3oYjMzRbuL8m2g-fCiVz4GdIQoSdv8&_nc_ht=scontent-hbe1-1.xx&oh=5acd1020e0d0c1a4a483f009bb72146f&oe=5E590483)
+![Octocat](C:\Users\bisho\Documents\GitHub\bishoymagdi626.github.io\img\18622098_10203122046008720_383455352845949872_n (640x639).jpg)
 # Bishoy Magdi Markos
 #### Omraneya Gharbeya, Giza, Egypt
 ##### +201201245034
@@ -231,3 +231,5 @@ nav_item:
 * English    - Attended a full 6 band under 17 course in the _British Council_ `2010/2012`
 * French     - Attended a level 5 course in the _Franco-Omani Center_ `2012/2013`
 * German     - Attended a A1 level course int the _GOETHE INSTITUT_ `2017/2018`
+
+### Computer And Prgramming
