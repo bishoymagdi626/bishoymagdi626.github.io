@@ -213,6 +213,7 @@ nav_item:
 #### Omraneya Gharbeya, Giza, Egypt
 ##### +201201245034
 #### bishoymagdi626@gmail.com
+[LinkedIn](https://www.linkedin.com/in/bishoy-markos-605630a6/).
 
 ### Personal Data
 
@@ -244,6 +245,8 @@ nav_item:
 * A Biomedical Engineer Trainee in Al- Sultan Qaboos Royal Hospital in Muscat - Sultanate of Oman for 1 month `2nd of July - 2nd of August / 2016`
 
 ### Extracurricular Experience 
+* An Incoming Global Volunteer in AIESEC Al-Fayoum for 6 months `2017`
+* An Outgoing Global Volunteer in AIESEC Al-Fayoum for 6 months `2016`
 * A Supervisor and a Swimming Coach in a student Summer Activity at Al- Falaj Hotel in Muscat - Sultanate of Oman for 2 months `June - August / 2016`
 * A Supervisor in a student Summer Activity at Al- Falaj Hotel in Muscat - Sultanate of Oman for 2 months `June - August / 2015`
 * An English Language Skills Private Tutor For Primary Grade Students `2015/2016`
