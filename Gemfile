@@ -1,5 +1,5 @@
-# frozen_string_literal: true
+source 'http://rubygems.org'
 
-source "https://rubygems.org"
-gemspec
-gem "github-pages" , group :: jekyll-plugins
+gem 'github-pages'
+gem 'html-proofer'
+gem 'jekyll-admin'
